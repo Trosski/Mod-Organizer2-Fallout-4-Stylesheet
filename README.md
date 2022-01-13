@@ -1,7 +1,7 @@
 # Mod-Organizer2-Fallout-4-Stylesheet
 Fallout 4 themed MO2 stylesheet
 
-![](https://www.nexusmods.com/fallout4/images/224331)
+![](https://imgur.com/XRZoWr7)
 
 ## Installation
 
